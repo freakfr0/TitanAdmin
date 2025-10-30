@@ -52,7 +52,6 @@ TitanAdmin is a fast and light-weight remote administration tool coded in C#. Th
 
 ## License
 TitanAdmin is distributed under the [MIT License](LICENSE).  
-Third-party licenses are located [here](Licenses).
 
 ## Thank you!
 I really appreciate all kinds of feedback and contributions. Thanks for using and supporting Quasar!

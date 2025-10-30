@@ -1,6 +1,6 @@
 # TitanAdmin
-[![Downloads](https://github.com/freakfr0/TitanAdmin/releases)]
-[![License](https://github.com/freakfr0/TitanAdmin/blob/main/LICENSE)](LICENSE)
+[[Downloads](https://github.com/freakfr0/TitanAdmin/releases)]
+[License](https://github.com/freakfr0/TitanAdmin/blob/main/LICENSE)](LICENSE)
 
 **Free Remote Administration Tool for Windows**
 
